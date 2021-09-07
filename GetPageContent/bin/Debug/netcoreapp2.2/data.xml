@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <MyTableName>
+    <Cena>0</Cena>
+    <Cena_x0020_z_x0020_dostawą>0</Cena_x0020_z_x0020_dostawą>
+  </MyTableName>
+  <MyTableName>
+    <Nazwa>Deskorolka SURFSKATE FISH SKATEBOARDS WAVE</Nazwa>
+    <Cena>599</Cena>
+    <Cena_x0020_z_x0020_dostawą>599</Cena_x0020_z_x0020_dostawą>
+  </MyTableName>
+  <MyTableName>
+    <Nazwa>Deskorolka Surfskate Cruiser Fish Skateboards</Nazwa>
+    <Cena>579</Cena>
+    <Cena_x0020_z_x0020_dostawą>587</Cena_x0020_z_x0020_dostawą>
+  </MyTableName>
+  <MyTableName>
+    <Nazwa>Deskorolka Cruiser Shortboard Fish Skateboards</Nazwa>
+    <Cena>348</Cena>
+    <Cena_x0020_z_x0020_dostawą>356</Cena_x0020_z_x0020_dostawą>
+  </MyTableName>
+  <MyTableName>
+    <Nazwa>Deskorolka Surfskate Surfboard Fish Skateboards Bl</Nazwa>
+    <Cena>599</Cena>
+    <Cena_x0020_z_x0020_dostawą>607</Cena_x0020_z_x0020_dostawą>
+  </MyTableName>
+  <MyTableName>
+    <Nazwa>Deskorolka Cruiser Surfskate Fish Skateboards Wave</Nazwa>
+    <Cena>599</Cena>
+    <Cena_x0020_z_x0020_dostawą>607</Cena_x0020_z_x0020_dostawą>
+  </MyTableName>
+  <MyTableName>
+    <Nazwa>Super Deskorolka Surfskate Fish Skateboards Sunset</Nazwa>
+    <Cena>549</Cena>
+    <Cena_x0020_z_x0020_dostawą>557</Cena_x0020_z_x0020_dostawą>
+  </MyTableName>
+</DocumentElement>

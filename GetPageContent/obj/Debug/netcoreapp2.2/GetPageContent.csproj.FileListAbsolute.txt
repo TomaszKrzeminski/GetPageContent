@@ -1,0 +1,11 @@
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\bin\Debug\netcoreapp2.2\GetPageContent.deps.json
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\bin\Debug\netcoreapp2.2\GetPageContent.runtimeconfig.json
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\bin\Debug\netcoreapp2.2\GetPageContent.runtimeconfig.dev.json
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\bin\Debug\netcoreapp2.2\GetPageContent.dll
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\bin\Debug\netcoreapp2.2\GetPageContent.pdb
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\obj\Debug\netcoreapp2.2\GetPageContent.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\obj\Debug\netcoreapp2.2\GetPageContent.AssemblyInfoInputs.cache
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\obj\Debug\netcoreapp2.2\GetPageContent.AssemblyInfo.cs
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\obj\Debug\netcoreapp2.2\GetPageContent.dll
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\obj\Debug\netcoreapp2.2\GetPageContent.pdb
+C:\Users\tomek\Source\Repos\GetPageContent\GetPageContent\obj\Debug\netcoreapp2.2\GetPageContent.csprojAssemblyReference.cache
